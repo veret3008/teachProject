@@ -1,2 +1,2 @@
 iteachProject
-chenged
+changed
